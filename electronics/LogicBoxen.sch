@@ -36,10 +36,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "22 jun 2015"
-Rev ""
-Comp ""
+Title "LogicBoxen"
+Date "3 feb 2016"
+Rev "1.1"
+Comp "Mittelab"
 Comment1 ""
 Comment2 ""
 Comment3 ""

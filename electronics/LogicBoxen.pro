@@ -1,4 +1,4 @@
-update=Domenica 30 Agosto 2015 22:33:28
+update=Mercoledì 03 Febbraio 2016 23:37:06
 version=1
 last_client=kicad
 [cvpcb]
@@ -45,6 +45,16 @@ LibName15=pga_sockets
 LibName16=valves
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
